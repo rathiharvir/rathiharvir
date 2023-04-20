@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I am Harvir Rathee</h1>
 
-- 🔭 Currently working as Frontend Engineer at **<a href="https://home.kpmg/xx/en/home.html">KPMG India</a>**
+- 🔭 Currently working as Associate Consultant at **<a href="https://home.kpmg/xx/en/home.html">KPMG India</a>**
 - 🚀 Currently mastering the art of Javascript and React JS.
 - 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
 - 🛠 Trying to get my hands on Public Cloud & Devops.

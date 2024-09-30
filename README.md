@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋 I am Harvir Rathee</h1>
 
-- 🔭 Currently working as Associate Consultant at **<a href="https://www.diligent.com/">Diligent Corporation</a>**
-- 🚀 Currently mastering the art of Javascript and React JS.
+- 🔭 Currently working as Software Engineer II at **<a href="https://www.diligent.com/">Diligent Corporation</a>**
+- 🚀 Currently mastering the art of AWS Full Stack Developer.
 - 👯 I’m looking for opportunities where I can learn and build **Amazing Scalable Products**
-- 🛠 Trying to get my hands on Public Cloud & Devops.
+- 🛠 MERN Stack Developer.
 - ⚡ Fun fact: I love playing video games and watching movies ❤️
 
 ## 🔧 Tools & Stack
